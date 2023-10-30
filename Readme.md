@@ -13,4 +13,4 @@ To meet the timely need, we conducted an empirical study on two mainstream compi
 
 ---
 ## Dataset
-We collect 2,989 bug reports from 1,355 Github projects, and manually inspected 113 commits whose messages explicitly mention the urls of compiler bug reports. For details, see [all_bugs.txt]() for the whole set; [association.txt]() for manully inspected result of selected bugs.
+We collect 2,989 bug reports from 1,355 Github projects, and manually inspected 113 commits whose messages explicitly mention the urls of compiler bug reports. For details, see [all_bugs.txt](https://github.com/AnonymousEmpiricalStudy/CompilerBugEmpiricalStudy/blob/main/whole_bugs.txt) for the whole set; [association.txt](https://github.com/AnonymousEmpiricalStudy/CompilerBugEmpiricalStudy/blob/main/association.txt) for manully inspected result of selected bugs.
